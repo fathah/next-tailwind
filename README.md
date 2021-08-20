@@ -37,14 +37,13 @@ Import and add in `_app.js`
 ```js
 import AOS from 'aos';
 import "aos/dist/aos.css";
+import {useEffect} from ''react';
 
  useEffect(() => {
     AOS.init({
       easing: "ease-out-cubic",
       once: true,
       offset: 50,
-     
-
     });
   }, []);
 ```
