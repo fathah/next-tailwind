@@ -27,6 +27,7 @@ purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
 
 ```
 
+
 ## Setup AOS Animation
 #### 1. Install AOS
 ```sh
@@ -47,6 +48,7 @@ import {useEffect} from ''react';
     });
   }, []);
 ```
+
 
 ## Setup React Icons
 #### 1. React Icons
