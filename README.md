@@ -30,7 +30,7 @@ purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
 ## Quick Setup
 Using the following line we can setup next.js with tailwind configs
 ```
-npx create-next-app -e with-tailwindcss
+npx create-next-app -e with-tailwindcss .
 
 ```
 
