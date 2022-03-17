@@ -1,5 +1,5 @@
 # next-tailwind
-_Common Setup for Next.js and Tailwind CSS_
+_Common Setup for Next.js and Tailwind CSS (With Bulma)_
 
 ## Create Next App
 ```sh
@@ -24,6 +24,11 @@ purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+```
+#### 5. Add Bulma
+```sh
+npm install bulma
 
 ```
 
