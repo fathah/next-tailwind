@@ -74,3 +74,22 @@ npm i react-icons
 
 
 
+## Add daisyUI
+#### 1. Install daisyUI
+```sh
+npm i daisyui
+```
+#### 2. Configure with `tailwind.config.js`
+```js
+module.exports = {
+  //...
+  plugins: [require("daisyui")],
+}
+```
+#### 3. Components
+Checkout the built-in components in **dailsyUI**
+
+**[`Browse Available Components`](https://react-icons.github.io/react-icons)**
+
+
+
