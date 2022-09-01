@@ -72,6 +72,16 @@ npm i react-icons
 
 [`Search For Icons`](https://react-icons.github.io/react-icons)
 
+## Setup React Loaders
+#### 1. React Icons
+
+```sh
+npm i react-loader-spinner
+```
+#### 2. Find Loaders
+
+[`View Loading Spinners`](https://mhnpd.github.io/react-loader-spinner/docs/category/components)
+
 
 
 ## Add daisyUI
