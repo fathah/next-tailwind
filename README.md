@@ -99,7 +99,7 @@ module.exports = {
 #### 3. Components
 Checkout the built-in components in **dailsyUI**
 
-**[`Browse Available Components`](https://react-icons.github.io/react-icons)**
+**[`Browse Available Components`](https://daisyui.com/components/)**
 
 
 
