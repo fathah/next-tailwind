@@ -110,5 +110,5 @@ npm i react-toastify
 
 ## Quick Install Common Packages
 ```
-npm i aos react-icons react-loader-spinner daisyui
+npm i aos react-icons react-loader-spinner react-toastify daisyui
 ```
