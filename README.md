@@ -101,5 +101,14 @@ Checkout the built-in components in **dailsyUI**
 
 **[`Browse Available Components`](https://daisyui.com/components/)**
 
+## Add Toastify
+#### 1. Install `react-toastify`
+```sh
+npm i react-toastify
+```
 
 
+## Quick Install Common Packages
+```
+npm i aos react-icons react-loader-spinner daisyui
+```
