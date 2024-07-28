@@ -126,7 +126,9 @@ npx prisma init --datasource-provider sqlite
 ## PRIMEREACT 
 [View Installation](https://primereact.org/installation/)
 Installation
-```npm install primereact```
+```
+npm install primereact
+```
 
 Basic Styling
 ```
