@@ -123,3 +123,14 @@ Initialize
 ```
 npx prisma init --datasource-provider sqlite
 ```
+## PRIMEREACT 
+[View Installation](https://primereact.org/installation/)
+Installation
+```npm install primereact```
+
+Basic Styling
+```
+import "primereact/resources/themes/lara-light-cyan/theme.css";
+```
+
+
