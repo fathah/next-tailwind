@@ -18,3 +18,10 @@ CREATE USER 'new_username'@'localhost' IDENTIFIED BY 'user_password';
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 ```
+
+#### Grant Access to DB
+```
+GRANT ALL PRIVILEGES ON database_name.* TO 'new_username'@'localhost';
+```
+
+#### 
